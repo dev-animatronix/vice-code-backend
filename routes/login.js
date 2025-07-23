@@ -28,7 +28,7 @@ router.post('/api/login', async (req, res) => {
     const token = jwt.sign(
       { userId: user.id, email: user.email },
       JWT_SECRET,
-      { expiresIn: '1h' } // token valide 1 heure
+      { expiresIn: '24h' } // token valide 24 heures
     );
 
     // reponse
