@@ -39,4 +39,4 @@ N’hésite pas à ouvrir une **issue**, proposer une **pull request**, ou simpl
 
 ---
 
-Made with ☕ and ❤️
+Made with ☕ and ❤️ … and a few whispers from ChatGPT.
