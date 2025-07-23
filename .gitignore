@@ -1,0 +1,30 @@
+# node_modules (this shit)
+node_modules/
+
+# environnement local
+.env
+
+# base de données SQLite
+*.db
+
+# fichiers de log éventuels
+*.log
+
+# fichiers de build ou temp
+dist/
+build/
+.cache/
+.tmp/
+
+# fichiers d’upload utilisateur
+uploads/
+
+# OS / IDE / éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Prisma
+prisma/dev.db
+prisma/migrations/
